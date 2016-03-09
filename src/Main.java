@@ -5,7 +5,7 @@ public class Main
 	public static void main(String[] args) 
 	{
 		// número entero
-		int edad = 9;
+		int edad = 9
 		
 		// número decimal
 		double altura = 175.5;
